@@ -1,5 +1,4 @@
 import React from 'react';
-
 function Articles({title, date = "January 1, 1970", preview}){
     return (
         <article>
